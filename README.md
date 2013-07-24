@@ -1,5 +1,9 @@
 <h1>Tango Card C#/.NET 4.0 SDK</h1>
 <h3>Incorporate the innovative Tango Card directly into your reward, loyalty, and engagement applications.</h3>
+
+Tango Card C#/.NET 4.0 SDK and the Tango Card Service API is depracating in favor of the Tango Card Rewards-as-a-Service (RaaS™) API. More information about the RaaS&trade; API can be found at [https://github.com/tangocarddev/RaaS/blob/master/README.md](https://github.com/tangocarddev/RaaS/blob/master/README.md)
+
+<!--
 <h4>Update: 2013-03-24</h4>
 <h4>Version: 1.4.0</h4>
 ===
@@ -883,5 +887,6 @@ The Tango Card C#/.NET 4.0 SDK is free to use, given some restrictions. Please s
 If you have any questions about using this SDK, please do contact us at <a href="mailto:sdk@tangocard.com?Subject=Tango Card C#/.NET 4.0 SDK Question">sdk@tangocard.com</a>. We will respond to inquiries within one business day.
 
 To learn more about Tango Card integration solutions, call 1.877.55.TANGO (1.877.558.2646).
+-->
 
 [![githalytics.com alpha](https://cruel-carlota.pagodabox.com/0d99126c1cf8686391099d328e3c2363 "githalytics.com")](http://githalytics.com/github.com/tangocarddev)
