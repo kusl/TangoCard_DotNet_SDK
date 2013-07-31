@@ -5,7 +5,7 @@ Tango Card C#/.NET 4.0 SDK and the Tango Card Service API is deprecating in favo
 
 <!--
 <h4>Update: 2013-03-24</h4>
-<h4>Version: 1.4.0</h4> -->
+<h4>Version: 1.4.0</h4> 
 ===
 
 # Table of Contents #
@@ -887,6 +887,6 @@ The Tango Card C#/.NET 4.0 SDK is free to use, given some restrictions. Please s
 If you have any questions about using this SDK, please do contact us at <a href="mailto:sdk@tangocard.com?Subject=Tango Card C#/.NET 4.0 SDK Question">sdk@tangocard.com</a>. We will respond to inquiries within one business day.
 
 To learn more about Tango Card integration solutions, call 1.877.55.TANGO (1.877.558.2646).
-
+-->
 
 [![githalytics.com alpha](https://cruel-carlota.pagodabox.com/0d99126c1cf8686391099d328e3c2363 "githalytics.com")](http://githalytics.com/github.com/tangocarddev)
