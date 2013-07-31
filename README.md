@@ -3,9 +3,9 @@
 
 Tango Card C#/.NET 4.0 SDK and the Tango Card Service API is deprecating in favor of the Tango Card Rewards-as-a-Service (RaaS™) API. More information about the RaaS&trade; API can be found at [https://github.com/tangocarddev/RaaS/blob/master/README.md](https://github.com/tangocarddev/RaaS/blob/master/README.md)
 
-
+<!--
 <h4>Update: 2013-03-24</h4>
-<h4>Version: 1.4.0</h4>
+<h4>Version: 1.4.0</h4> -->
 ===
 
 # Table of Contents #
